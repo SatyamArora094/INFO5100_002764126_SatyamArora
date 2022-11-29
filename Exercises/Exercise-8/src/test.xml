@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<BookShelf>
+    <Book>
+        <title></title>
+        <publishedYear></publishedYear>
+        <numberOfPages></numberOfPages>
+        <author></author>
+    </Book>
+
+    <Book>
+        <title></title>
+        <publishedYear></publishedYear>
+        <numberOfPages></numberOfPages>
+        <author></author>
+    </Book>
+
+</BookShelf>

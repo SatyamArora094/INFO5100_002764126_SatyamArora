@@ -1,0 +1,25 @@
+{
+"BookShelf":
+{
+  "Book": [
+    {
+      "title": "HarryPotter",
+      "publishedYEAR": "1990",
+      "numberOfPages": "700",
+      "authors": "J.K Rowling"
+    },
+    {
+      "title": "Eragon",
+      "publishedYEAR": "2000",
+      "numberOfPages": "800",
+      "authors": "Satyam"
+    },
+    {
+      "title": "Astrix and Goblix",
+      "publishedYEAR": "2002",
+      "numberOfPages": "150",
+      "authors": "Arora"
+    }
+  ]
+}
+}
